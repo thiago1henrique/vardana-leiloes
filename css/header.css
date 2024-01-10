@@ -1,0 +1,31 @@
+.btn-header {
+    border-radius: 0px;
+    width: 95px;
+    padding: 4px 0px 4px 0px;
+}
+
+.menuHeader {
+    text-decoration: none;
+    color: #000000;
+    padding-left: 25px;
+}
+
+.ulMenu li:first-child a.menuHeader{
+    padding-left: 0px;
+}
+
+.listaMenuHeaderMobile {
+    padding: 0;
+    margin: 0;
+}
+
+.listaMenuHeaderMobile li {
+    list-style: none;
+    text-align: center;
+}
+
+.listaMenuHeaderMobile li a {
+    text-decoration: none;
+    color: #000000;
+
+}

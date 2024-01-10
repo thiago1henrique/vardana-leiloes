@@ -1,0 +1,79 @@
+#footer {
+    background-color: #F4F4F4;
+}
+
+footer {
+    background-color: #F4F4F4;
+}
+
+.imageRodape {
+    height: 227px;
+    background-image: url(../assets/rodape/map.jpg);
+    background-size: cover;
+}
+
+.bannerFooter {
+    padding-top: 20px;
+    background-color: #F4F4F4;
+    height: 300px;
+}
+
+.titleFooter {
+    font-weight: 700;
+    padding-top: 43px;
+}
+
+.containerContato {
+    padding-top: 13px;
+}
+
+.containerContato p {
+    padding-left: 13px;
+}
+
+.faixaBannerFooter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 51px;
+    background-color: #232354;
+}
+
+.listaSocial {
+    display: flex;
+    justify-content: flex-start;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    padding-top: 32px;
+}
+
+.menuFooterLinks {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menuFooterLinks.mobile {
+    text-align: center;
+}
+
+.menuFooterLinks li a{
+    text-decoration: none;
+    color: #000;
+}
+
+.listaSocial li {
+    margin-left: 34px;
+}
+
+.listaSocial li:first-child {
+    margin-left: 0;
+}
+
+.faixaBannerFooter h3 {
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+}
